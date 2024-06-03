@@ -146,4 +146,13 @@ nav
     }
     ```
 
-<h3>After all that compiler convert the code to valid `CSS` that can be use on browser. </h3>
+<h4>After all that compiler convert the code to valid `CSS` that can be use on browser. </h4>
+
+### Install SASS
+We can install `SASS` on Windows, Mac, or Linux by downloading the package for respective operating system.
+If using Node.js, we can also install `SASS` using npm by running
+
+
+```
+npm install -g sass
+```
